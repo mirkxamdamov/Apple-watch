@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root {
+  display: flex;
+}
+.Apple-Watch {
+  width: 777px;
+  height: 100vh;
+  margin-left: 150px;
+}
+.logo{
+    width: 218px;
+    height: 259px;
+    margin-top: 50px;
+    margin-bottom: 41px;
+    margin-left: 250px;
+}
+.AppleH1{
+    font-size: 150px;
+    margin-left: 180px;
+}
+.AppleH1:nth-child(3){
+    margin-left: 180px;
+    font-size: 150px;
+    color: #EA625C;
+}
